@@ -489,7 +489,7 @@
     },
     "shadow-11": {
       "shadow-color": {
-        "value": "rgba(0, 0, 0, 0.4)"
+        "value": "rgba(0, 0, 0, 0.4"
       },
       "shadow-blur-radius": {
         "value": 8
@@ -719,7 +719,7 @@
     },
     "—pf-global—background—color—primary": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       }
     },
     "—pf-global—background—color—secondary-hover": {
@@ -729,7 +729,7 @@
     },
     "—pf-global—background—color—floating": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       }
     },
     "—pf-global—action—plain—background—color—hover": {
@@ -782,7 +782,7 @@
     "floating": {
       "—pf-global—background—color—floating": {
         "background-color": {
-          "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+          "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
         }
       },
       "—pf-global—background—color—floating—selected": {
@@ -804,7 +804,7 @@
       },
       "—pf-global—background—color—primary": {
         "background-color": {
-          "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+          "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
         }
       },
       "—pf-global—background—color—primary—hover": {
@@ -843,13 +843,13 @@
       },
       "—pf-global—action—plain—background—color—hover—alt": {
         "background-color": {
-          "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+          "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
         }
       }
     },
     "—pf-global—control--background—color": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       }
     },
     "—pf-global—icon—color—custom—hover": {
@@ -864,12 +864,12 @@
     },
     "—pf-global—icon—color—on-success—hover": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       }
     },
     "—pf-global—icon—color—on-brand": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       }
     },
     "—pf-global—icon—color—warning—hover": {
@@ -879,12 +879,12 @@
     },
     "—pf-global—icon—color—on-danger": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       }
     },
     "—pf-global—icon—color—on-danger—hover": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       }
     },
     "—pf-global—icon—color—success": {
@@ -894,7 +894,7 @@
     },
     "—pf-global—icon—color—on-success": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       }
     },
     "—pf-global—icon—color—info—active": {
@@ -924,7 +924,7 @@
     },
     "—pf-global—icon—color—on-warning—hover": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       }
     },
     "—pf-global—icon—color—danger": {
@@ -949,7 +949,7 @@
     },
     "—pf-global—icon—color—on-brand—hover": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       }
     },
     "—pf-global—icon—color—success—hover": {
@@ -984,7 +984,7 @@
     },
     "—pf-global—icon—color—inverse": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       }
     },
     "—pf-global—icon—color—disabled": {
@@ -1004,7 +1004,7 @@
     },
     "—pf-global—icon—color—on-danger—hover": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       }
     },
     "—pf-global—icon—color—danger": {
@@ -1014,7 +1014,7 @@
     },
     "—pf-global—icon—color—on-danger": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       }
     },
     "—pf-global—icon—color—danger—hover": {
@@ -1044,22 +1044,22 @@
     },
     "—pf-global—icon—color—on-info": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       }
     },
     "—pf-global—icon—color—on-info—hover": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       }
     },
     "—pf-global—icon—color—on-success": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       }
     },
     "—pf-global—icon—color—on-success—hover": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       }
     },
     "—pf-global—icon—color—success—active": {
@@ -1089,7 +1089,7 @@
     },
     "—pf-global—icon—color—on-warning—hover": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       }
     },
     "—pf-global—icon—color—warning—active": {
@@ -1114,12 +1114,12 @@
     },
     "—pf-global—icon—color—on-brand—hover": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       }
     },
     "—pf-global—icon—color—on-brand": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       }
     },
     "—pf-global—icon—color—brand—active": {
@@ -1144,17 +1144,17 @@
     },
     "—pf-global—icon—color—on-custom": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       }
     },
     "—pf-global—icon—color—on-custom—hover": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       }
     },
     "—pf-global—box-shadow—large": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       },
       "shadow": {
         "value": "shadows.shadow-1"
@@ -1162,7 +1162,7 @@
     },
     "—pf-global—box-shadow—large—left": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       },
       "shadow": {
         "value": "shadows.shadow-2"
@@ -1170,7 +1170,7 @@
     },
     "—pf-global—box-shadow—floating": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       },
       "shadow": {
         "value": "shadows.shadow-3"
@@ -1178,7 +1178,7 @@
     },
     "—pf-global—box-shadow—drawer—top": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       },
       "shadow": {
         "value": "shadows.shadow-4"
@@ -1186,7 +1186,7 @@
     },
     "—pf-global—box-shadow—large—right": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       },
       "shadow": {
         "value": "shadows.shadow-5"
@@ -1194,7 +1194,7 @@
     },
     "—pf-global—box-shadow—small": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       },
       "shadow": {
         "value": "shadows.shadow-6"
@@ -1202,7 +1202,7 @@
     },
     "—pf-global—box-shadow—medium": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       },
       "shadow": {
         "value": "shadows.shadow-3"
@@ -1210,7 +1210,7 @@
     },
     "—pf-global—box-shadow—large—bottom": {
       "background-color": {
-        "value": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "value": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       },
       "shadow": {
         "value": "shadows.shadow-7"
@@ -1458,7 +1458,7 @@
         "value": "1px"
       }
     },
-    "font": {
+    "-pf-global-font": {
       "body": {
         "font-family": {
           "value": "font-families.red-hat-text"
@@ -2289,21 +2289,23 @@
         "value": "2px"
       }
     },
-    "heading-xxl": {
-      "font-family": {
-        "value": "font-families.red-hat-display"
-      },
-      "font-weight": {
-        "value": "font-weights.font-weight-600"
-      },
-      "fontsize": {
-        "value": "font-sizes.font-size-8"
-      },
-      "text-color": {
-        "value": "--pf-color-base-gray-100"
-      },
-      "text-align": {
-        "value": "text-alignments.text-align-left"
+    "-pf-global-font": {
+      "heading-xxl": {
+        "font-family": {
+          "value": "font-families.red-hat-display"
+        },
+        "font-weight": {
+          "value": "font-weights.font-weight-600"
+        },
+        "fontsize": {
+          "value": "font-sizes.font-size-8"
+        },
+        "text-color": {
+          "value": "--pf-color-base-gray-100"
+        },
+        "text-align": {
+          "value": "text-alignments.text-align-left"
+        }
       }
     }
   }

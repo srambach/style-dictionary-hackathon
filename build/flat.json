@@ -177,7 +177,7 @@
       "shadow-spread": 0
     },
     "shadow-11": {
-      "shadow-color": "rgba(0, 0, 0, 0.4)",
+      "shadow-color": "rgba(0, 0, 0, 0.4",
       "shadow-blur-radius": 8,
       "shadow-offset-x": 0,
       "shadow-offset-y": 4,
@@ -293,13 +293,13 @@
       "background-color": "rgba(255, 255, 255, 0)"
     },
     "—pf-global—background—color—primary": {
-      "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+      "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
     },
     "—pf-global—background—color—secondary-hover": {
       "background-color": "--pf-color-base-gray-200"
     },
     "—pf-global—background—color—floating": {
-      "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+      "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
     },
     "—pf-global—action—plain—background—color—hover": {
       "background-color": "--pf-color-base-gray-200"
@@ -332,7 +332,7 @@
     },
     "floating": {
       "—pf-global—background—color—floating": {
-        "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       },
       "—pf-global—background—color—floating—selected": {
         "background-color": "--pf-color-base-gray-100"
@@ -346,7 +346,7 @@
         "background-color": "--pf-color-base-gray-100"
       },
       "—pf-global—background—color—primary": {
-        "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       },
       "—pf-global—background—color—primary—hover": {
         "background-color": "--pf-color-base-gray-100"
@@ -371,11 +371,11 @@
         "background-color": "--pf-color-base-gray-100"
       },
       "—pf-global—action—plain—background—color—hover—alt": {
-        "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+        "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
       }
     },
     "—pf-global—control--background—color": {
-      "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+      "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
     },
     "—pf-global—icon—color—custom—hover": {
       "background-color": "--pf-color-base-cyan-500"
@@ -384,25 +384,25 @@
       "background-color": "colors.text color tokens (light theme).status/danger/—pf-global—text—color—danger—active"
     },
     "—pf-global—icon—color—on-success—hover": {
-      "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+      "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
     },
     "—pf-global—icon—color—on-brand": {
-      "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+      "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
     },
     "—pf-global—icon—color—warning—hover": {
       "background-color": "--pf-color-base-gold-500"
     },
     "—pf-global—icon—color—on-danger": {
-      "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+      "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
     },
     "—pf-global—icon—color—on-danger—hover": {
-      "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+      "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
     },
     "—pf-global—icon—color—success": {
       "background-color": "--pf-color-base-green-400"
     },
     "—pf-global—icon—color—on-success": {
-      "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+      "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
     },
     "—pf-global—icon—color—info—active": {
       "background-color": "--pf-color-base-purple-500"
@@ -420,7 +420,7 @@
       "background-color": "--pf-color-base-blue-500"
     },
     "—pf-global—icon—color—on-warning—hover": {
-      "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+      "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
     },
     "—pf-global—icon—color—danger": {
       "background-color": "colors.text color tokens (light theme).status/danger/—pf-global—text—color—danger"
@@ -435,7 +435,7 @@
       "background-color": "--pf-color-base-purple-400"
     },
     "—pf-global—icon—color—on-brand—hover": {
-      "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+      "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
     },
     "—pf-global—icon—color—success—hover": {
       "background-color": "--pf-color-base-green-500"
@@ -456,7 +456,7 @@
       "background-color": "--pf-color-base-cyan-400"
     },
     "—pf-global—icon—color—inverse": {
-      "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+      "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
     },
     "—pf-global—icon—color—disabled": {
       "background-color": "--pf-color-base-gray-600"
@@ -468,47 +468,47 @@
       "background-color": "--pf-color-base-gray-500"
     },
     "—pf-global—icon—color—on-info": {
-      "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+      "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
     },
     "—pf-global—icon—color—on-info—hover": {
-      "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+      "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
     },
     "—pf-global—icon—color—on-custom": {
-      "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+      "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
     },
     "—pf-global—icon—color—on-custom—hover": {
-      "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success"
+      "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success"
     },
     "—pf-global—box-shadow—large": {
-      "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success",
+      "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success",
       "shadow": "shadows.shadow-1"
     },
     "—pf-global—box-shadow—large—left": {
-      "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success",
+      "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success",
       "shadow": "shadows.shadow-2"
     },
     "—pf-global—box-shadow—floating": {
-      "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success",
+      "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success",
       "shadow": "shadows.shadow-3"
     },
     "—pf-global—box-shadow—drawer—top": {
-      "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success",
+      "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success",
       "shadow": "shadows.shadow-4"
     },
     "—pf-global—box-shadow—large—right": {
-      "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success",
+      "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success",
       "shadow": "shadows.shadow-5"
     },
     "—pf-global—box-shadow—small": {
-      "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success",
+      "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success",
       "shadow": "shadows.shadow-6"
     },
     "—pf-global—box-shadow—medium": {
-      "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success",
+      "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success",
       "shadow": "shadows.shadow-3"
     },
     "—pf-global—box-shadow—large—bottom": {
-      "background-color": "colors.text color tokens (light theme).status/success/4)—pf-global—text—color—on-success",
+      "background-color": "colors.text color tokens (light theme).status/success/4—pf-global—text—color—on-success",
       "shadow": "shadows.shadow-7"
     },
     "—pf-global—border—color—warning": {
@@ -621,7 +621,7 @@
       "border-position": "border.positions.inside",
       "border-size": "1px"
     },
-    "font": {
+    "-pf-global-font": {
       "body": {
         "font-family": "font-families.red-hat-text",
         "font-weight": "font-weights.font-weight-500",
@@ -1046,12 +1046,14 @@
       "border-position": "border.positions.inside",
       "border-size": "2px"
     },
-    "heading-xxl": {
-      "font-family": "font-families.red-hat-display",
-      "font-weight": "font-weights.font-weight-600",
-      "fontsize": "font-sizes.font-size-8",
-      "text-color": "--pf-color-base-gray-100",
-      "text-align": "text-alignments.text-align-left"
+    "-pf-global-font": {
+      "heading-xxl": {
+        "font-family": "font-families.red-hat-display",
+        "font-weight": "font-weights.font-weight-600",
+        "fontsize": "font-sizes.font-size-8",
+        "text-color": "--pf-color-base-gray-100",
+        "text-align": "text-alignments.text-align-left"
+      }
     }
   }
 }
