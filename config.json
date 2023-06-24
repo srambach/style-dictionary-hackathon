@@ -1,0 +1,32 @@
+{
+  "source": ["tokens/**/*.json"],
+  "platforms": {
+    "scss": {
+      "transformGroup": "scss",
+      "prefix": "",
+      "buildPath": "build/scss/",
+      "files": [{
+        "destination": "_variables.scss",
+        "format": "scss/variables"
+      }]
+    },
+    "css": {
+      "transformGroup": "css",
+      "prefix": "",
+      "buildPath": "build/css/",
+      "files": [{
+        "destination": "_variables.css",
+        "format": "css/variables"
+      }]
+    },
+    "flat": {
+      "transform": "attribute/cti",
+      "prefix": "",
+      "buildPath": "build/",
+      "files": [{
+        "destination": "flat.json",
+        "format": "json/nested"
+      }]
+    }
+  }
+}
